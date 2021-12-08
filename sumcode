@@ -1,6 +1,6 @@
-int a, b, c, sum;
+int a, b, c, mul;
 input a;
 input b;
 input c;
-sum = a + b + c;
-print sum;
+mul = a * b * c;
+print mul;
