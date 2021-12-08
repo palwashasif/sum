@@ -1,6 +1,6 @@
-int a, b, c, sum;
+int a, b, c, div;
 input a;
 input b;
 input c;
-sum = a + b + c;
-print sum;
+div = a / b / c;
+print div;
