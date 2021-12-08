@@ -1,0 +1,6 @@
+int a, b, c, sum;
+input a;
+input b;
+input c;
+sum = a + b + c;
+print sum;
